@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/ProjetoIntegradorIII/Scenes/VRtestScene.unity
-    guid: 2e8dbc04b3a40124aa1e32095be45733
+    path: Assets/ProjetoIntegradorIII/Scenes/almoxarife.unity
+    guid: 1c51d42ba959144428ccfa2b7753a96d
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 76ac18b15d76a16438d0c14203500edb,
       type: 2}
